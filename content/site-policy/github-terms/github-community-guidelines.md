@@ -1,3 +1,4 @@
+[marketing-consent.pdf](https://github.com/github/docs/files/8358223/marketing-consent.pdf)
 ---
 title: GitHub Community Guidelines
 redirect_from:
